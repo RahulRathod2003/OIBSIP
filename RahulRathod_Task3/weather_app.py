@@ -1,6 +1,6 @@
 import requests
 
-api_key = "input("Enter Your API Key")"
+api_key = input("Enter Your API Key")
 
 city = input("Enter city name: ")
 
